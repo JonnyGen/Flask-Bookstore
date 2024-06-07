@@ -1,0 +1,48 @@
+body {
+
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(123, 59, 59);
+}
+div.math {
+
+    background-color: rgb(243, 110, 76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+div.english {
+
+    background-color:  rgb(237, 240, 243);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+
+div.science {
+
+    background-color: rgb(243, 110, 76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+
+div.history {
+
+    background-color: rgb(237, 240, 243);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+
+div.gym {
+
+    background-color: rgb(243, 110, 76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+div.image{
+background-color: antiquewhite;
+margin-right: 0%;
+
+}
